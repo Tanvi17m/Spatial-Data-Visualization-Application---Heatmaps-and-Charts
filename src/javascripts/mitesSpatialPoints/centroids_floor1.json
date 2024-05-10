@@ -1,0 +1,102 @@
+{
+    "tcs_1f_room_165_SE_conference": {
+        "x": 590,
+        "y": 89
+    },
+    "tcs_1f_room_164_SE_conference": {
+        "x": 684,
+        "y": 89
+    },
+    "tcs_1f_room_166_SE_office": {
+        "x": 555,
+        "y": 135
+    },
+    "tcs_1f_room_167_SE_office": {
+        "x": 555,
+        "y": 170
+    },
+    "tcs_1f_corridor_150_SE_kitchen": {
+        "x": 555,
+        "y": 213
+    },
+    "tcs_1f_room_160_SE_office": {
+        "x": 835,
+        "y": 164
+    },
+    "tcs_1f_room_161_SE_office": {
+        "x": 799,
+        "y": 157
+    },
+    "tcs_1f_room_162_SE_office": {
+        "x": 765,
+        "y": 148
+    },
+    "tcs_1f_room_163_SE_office": {
+        "x": 731,
+        "y": 140
+    },
+    "tcs_1f_room_171_SW_office": {
+        "x": 677,
+        "y": 292
+    },
+    "tcs_1f_room_170_SW_office": {
+        "x": 638,
+        "y": 292
+    },
+    "tcs_1F_room_107_SW_other": {
+        "x": 630,
+        "y": 352
+    },
+    "tcs_1F_room_108_SW_other": {
+        "x": 659,
+        "y": 336
+    },
+    "tcs_1f_room_172_SW_conference": {
+        "x": 720,
+        "y": 290
+    },
+    "tcs_1F_room_103_NW_other": {
+        "x": 375,
+        "y": 350
+    },
+    "tcs_1F_room_104_NW_other": {
+        "x": 376,
+        "y": 323
+    },
+    "tcs_1F_room_106_NW_other": {
+        "x": 349,
+        "y": 333
+    },
+    "tcs_1F_room_105_NW_other": {
+        "x": 362,
+        "y": 295
+    },
+    "tcs_1f_corridor_100_NW_restroom_corridor": {
+        "x": 399,
+        "y": 323
+    },
+    "tcs_1F_room_102_NW_other": {
+        "x": 473,
+        "y": 300
+    },
+    "tcs_1F_room_101_NW_other": {
+        "x": 470,
+        "y": 342
+    },
+    "tcs_1f_corridor_168_SE_open_collaboration": {
+        "x": 698,
+        "y": 206
+    },
+    "tcs_1f_corridor_100_SW_entry_corridor": {
+        "x": 605,
+        "y": 384
+    },
+    "tcs_1f_corridor_100_NW_corridor": {
+        "x": 425,
+        "y": 400
+    },
+    "tcs_1f_corridor_169_SW_entry_corridor": {
+        "x": 573,
+        "y": 264
+    }
+}

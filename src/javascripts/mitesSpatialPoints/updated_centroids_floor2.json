@@ -1,0 +1,206 @@
+{
+    "tcs_2f_room_240_NE_office": {
+        "x": -713.0,
+        "y": -388.5
+    },
+    "tcs_2f_room_241_NE_office": {
+        "x": -555.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_242_NE_office": {
+        "x": -401.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_243_NE_office": {
+        "x": -247.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_244_NE_office": {
+        "x": -93.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_245_NE_office": {
+        "x": 57.0,
+        "y": -388.5
+    },
+    "tcs_2f_room_246_NE_office": {
+        "x": 207.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_247_NE_office": {
+        "x": 358.0,
+        "y": -388.5
+    },
+    "tcs_2f_room_248_NE_office": {
+        "x": 508.5,
+        "y": -388.5
+    },
+    "tcs_2f_room_251_SE_classroom": {
+        "x": 736.0,
+        "y": -297.5
+    },
+    "tcs_2f_room_250_SE_classroom": {
+        "x": 1121.0,
+        "y": -290.5
+    },
+    "tcs_2f_room_261_SE_office": {
+        "x": 1464.0,
+        "y": -437.5
+    },
+    "tcs_2f_room_262_SE_office": {
+        "x": 1646.0,
+        "y": -213.5
+    },
+    "tcs_2f_room_263_SE_office": {
+        "x": 1807.0,
+        "y": -213.5
+    },
+    "tcs_2f_room_264_SE_office": {
+        "x": 1957.5,
+        "y": -178.5
+    },
+    "tcs_2f_room_265_SE_office": {
+        "x": 1957.5,
+        "y": 24.5
+    },
+    "tcs_2f_room_266_SE_office": {
+        "x": 1747.5,
+        "y": 24.5
+    },
+    "tcs_2f_room_259_SE_office": {
+        "x": 1621.5,
+        "y": 24.5
+    },
+    "tcs_2f_room_267_SW_office": {
+        "x": 1730.0,
+        "y": 189.0
+    },
+    "tcs_2f_room_254_SE_conference": {
+        "x": 1089.5,
+        "y": 192.5
+    },
+    "tcs_2f_corridor_235_NW_lab_space": {
+        "x": 438.5,
+        "y": 241.5
+    },
+    "tcs_2F_room_202_NW_other": {
+        "x": 358.0,
+        "y": 427.0
+    },
+    "tcs_2F_room_201_NW_other": {
+        "x": 358.0,
+        "y": 577.5
+    },
+    "tcs_2F_room_203_NW_other": {
+        "x": -9.5,
+        "y": 609.0
+    },
+    "tcs_2F_room_204_NW_other": {
+        "x": -9.5,
+        "y": 504.0
+    },
+    "tcs_2F_room_206_NW_other": {
+        "x": -111.0,
+        "y": 546.0
+    },
+    "tcs_2F_room_205_NW_other": {
+        "x": -65.5,
+        "y": 399.0
+    },
+    "tcs_2f_corridor_231A_NW_kitchen": {
+        "x": -356.0,
+        "y": 283.5
+    },
+    "tcs_2f_room_231_NE_office": {
+        "x": -356.0,
+        "y": 80.5
+    },
+    "tcs_2f_corridor_232_NE_huddle_space": {
+        "x": -356.0,
+        "y": -129.5
+    },
+    "tcs_2f_room_224_NE_office": {
+        "x": -664.0,
+        "y": -129.5
+    },
+    "tcs_2f_room_223_NE_office": {
+        "x": -664.0,
+        "y": 14.0
+    },
+    "tcs_2f_room_222_NW_office": {
+        "x": -664.0,
+        "y": 154.0
+    },
+    "tcs_2f_room_221_NW_office": {
+        "x": -664.0,
+        "y": 294.0
+    },
+    "tcs_2f_room_220_NW_office": {
+        "x": -636.0,
+        "y": 430.5
+    },
+    "tcs_2f_corridor_230_NW_storage_room": {
+        "x": -405.0,
+        "y": 430.5
+    },
+    "tcs_2f_room_257_SW_office": {
+        "x": 1478.0,
+        "y": 196.0
+    },
+    "tcs_2f_room_258_SW_office": {
+        "x": 1590.0,
+        "y": 192.5
+    },
+    "tcs_2f_corridor_233_NE_maker_space": {
+        "x": 351.0,
+        "y": -80.5
+    },
+    "tcs_2f_corridor_236_SE_huddle_space": {
+        "x": 666.0,
+        "y": -24.5
+    },
+    "tcs_2f_corridor_207_NW_entry_corridor": {
+        "x": 557.5,
+        "y": -234.5
+    },
+    "tcs_2f_corridor_268_SW_open_collaboration": {
+        "x": 1653.0,
+        "y": 304.5
+    },
+    "tcs_2f_corridor_256_SE_kitchen": {
+        "x": 1488.5,
+        "y": 38.5
+    },
+    "tcs_2f_corridor_200_SW_entry_corridor": {
+        "x": 858.5,
+        "y": 423.5
+    },
+    "tcs_2f_corridor_200_NW_restroom_corridor": {
+        "x": 78.0,
+        "y": 504.0
+    },
+    "tcs_2f_corridor_200_NW_corridor": {
+        "x": 204.0,
+        "y": 724.5
+    },
+    "tcs_2f_corridor_207B_NE_open_collaboration": {
+        "x": -76.0,
+        "y": -105.0
+    },
+    "tcs_2f_corridor_207_NW_corridor": {
+        "x": -107.5,
+        "y": 311.5
+    },
+    "tcs_2f_corridor_260_SE_open_collaboration": {
+        "x": 1450.0,
+        "y": -140.0
+    },
+    "tcs_2f_corridor_255_SW_open_collaboration": {
+        "x": 1247.0,
+        "y": 276.5
+    },
+    "tcs_2f_corridor_207_NE_corridor": {
+        "x": -62.0,
+        "y": -245.0
+    }
+}

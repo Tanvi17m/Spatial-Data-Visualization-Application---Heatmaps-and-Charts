@@ -1,0 +1,326 @@
+{
+    "tcs_3f_room_325_NE_office": {
+        "x": [
+            142.54000000000002
+        ],
+        "y": 133.8
+    },
+    "tcs_3f_room_326_NE_office": {
+        "x": [
+            167.95999999999998
+        ],
+        "y": 133.8
+    },
+    "tcs_3f_room_327_NE_office": {
+        "x": [
+            193.38
+        ],
+        "y": 133.8
+    },
+    "tcs_3f_room_324_NE_office": {
+        "x": [
+            150.6
+        ],
+        "y": 176.39999999999998
+    },
+    "tcs_3f_room_323_NE_office": {
+        "x": [
+            151.22
+        ],
+        "y": 198.0
+    },
+    "tcs_3f_room_320_NW_office": {
+        "x": [
+            155.56
+        ],
+        "y": 268.79999999999995
+    },
+    "tcs_3f_room_322_NW_office": {
+        "x": [
+            151.22
+        ],
+        "y": 222.6
+    },
+    "tcs_3f_room_321_NW_office": {
+        "x": [
+            150.6
+        ],
+        "y": 245.4
+    },
+    "tcs_3f_room_332_NE_office": {
+        "x": [
+            201.44
+        ],
+        "y": 179.39999999999998
+    },
+    "tcs_3f_room_331_NE_office": {
+        "x": [
+            201.44
+        ],
+        "y": 210.6
+    },
+    "tcs_3f_corridor_331A_NW_kitchen": {
+        "x": [
+            201.44
+        ],
+        "y": 244.2
+    },
+    "tcs_3f_room_330_NW_office": {
+        "x": [
+            192.76
+        ],
+        "y": 267.6
+    },
+    "tcs_3f_room_340_NE_office": {
+        "x": [
+            293.82
+        ],
+        "y": 133.8
+    },
+    "tcs_3f_room_341_NE_office": {
+        "x": [
+            318.62
+        ],
+        "y": 134.4
+    },
+    "tcs_3f_room_342_NE_office": {
+        "x": [
+            343.42
+        ],
+        "y": 134.4
+    },
+    "tcs_3f_room_343_SE_office": {
+        "x": [
+            368.21999999999997
+        ],
+        "y": 135.0
+    },
+    "tcs_3f_corridor_344_SE_visitor_space": {
+        "x": [
+            393.02
+        ],
+        "y": 130.8
+    },
+    "tcs_3f_room_345_SE_office": {
+        "x": [
+            417.82
+        ],
+        "y": 134.4
+    },
+    "tcs_3f_room_346_SE_office": {
+        "x": [
+            442.62
+        ],
+        "y": 134.4
+    },
+    "tcs_3f_room_347_SE_office": {
+        "x": [
+            468.04
+        ],
+        "y": 133.8
+    },
+    "tcs_3f_room_348_SE_office": {
+        "x": [
+            499.66
+        ],
+        "y": 132.6
+    },
+    "tcs_3f_room_317_NW_office": {
+        "x": [
+            218.18
+        ],
+        "y": 340.2
+    },
+    "tcs_3f_room_316_NW_office": {
+        "x": [
+            244.22
+        ],
+        "y": 339.0
+    },
+    "tcs_3f_room_315_NW_office": {
+        "x": [
+            268.4
+        ],
+        "y": 339.0
+    },
+    "tcs_3f_room_314_NW_office": {
+        "x": [
+            292.58000000000004
+        ],
+        "y": 339.0
+    },
+    "tcs_3f_room_313_NW_office": {
+        "x": [
+            319.24
+        ],
+        "y": 339.0
+    },
+    "tcs_3f_room_312_NW_office": {
+        "x": [
+            343.42
+        ],
+        "y": 339.6
+    },
+    "tcs_3f_room_311_NW_office": {
+        "x": [
+            368.84
+        ],
+        "y": 340.79999999999995
+    },
+    "tcs_3f_room_310_SW_conference": {
+        "x": [
+            409.14
+        ],
+        "y": 348.59999999999997
+    },
+    "tcs_3f_corridor_350_SW_open_office": {
+        "x": [
+            436.42
+        ],
+        "y": 210.0
+    },
+    "tcs_3f_corridor_353_SE_open_office": {
+        "x": [
+            364.5
+        ],
+        "y": 186.6
+    },
+    "tcs_3f_room_355_SW_office": {
+        "x": [
+            364.5
+        ],
+        "y": 217.2
+    },
+    "tcs_3f_corridor_357_SW_open_office": {
+        "x": [
+            364.5
+        ],
+        "y": 242.4
+    },
+    "tcs_3f_room_358_NE_conference": {
+        "x": [
+            313.03999999999996
+        ],
+        "y": 213.0
+    },
+    "tcs_3F_room_306_NW_other": {
+        "x": [
+            241.12
+        ],
+        "y": 287.4
+    },
+    "tcs_3F_room_305_NW_other": {
+        "x": [
+            249.18
+        ],
+        "y": 262.79999999999995
+    },
+    "tcs_3F_room_304_NW_other": {
+        "x": [
+            258.48
+        ],
+        "y": 280.2
+    },
+    "tcs_3F_room_303_NW_other": {
+        "x": [
+            257.86
+        ],
+        "y": 297.0
+    },
+    "tcs_3f_room_361_SE_office": {
+        "x": [
+            579.64
+        ],
+        "y": 172.8
+    },
+    "tcs_3f_room_362_SE_office": {
+        "x": [
+            554.8399999999999
+        ],
+        "y": 172.8
+    },
+    "tcs_3f_room_363_SE_office": {
+        "x": [
+            532.52
+        ],
+        "y": 172.8
+    },
+    "tcs_3f_room_349_SE_office": {
+        "x": [
+            508.34
+        ],
+        "y": 170.39999999999998
+    },
+    "tcs_3F_room_302_NW_other": {
+        "x": [
+            318.0
+        ],
+        "y": 266.4
+    },
+    "tcs_3F_room_301_NW_other": {
+        "x": [
+            318.0
+        ],
+        "y": 292.2
+    },
+    "tcs_3f_corridor_300_NW_restroom_corridor": {
+        "x": [
+            272.74
+        ],
+        "y": 280.2
+    },
+    "tcs_3f_room_360_SW_conference": {
+        "x": [
+            549.26
+        ],
+        "y": 241.79999999999998
+    },
+    "tcs_3F_room_308_NW_other": {
+        "x": [
+            211.98
+        ],
+        "y": 286.79999999999995
+    },
+    "tcs_3f_corridor_307_NE_corridor": {
+        "x": [
+            231.2
+        ],
+        "y": 162.0
+    },
+    "tcs_3f_corridor_307A_NE_open_collaboration": {
+        "x": [
+            247.94
+        ],
+        "y": 187.8
+    },
+    "tcs_3f_corridor_300_SE_corridor": {
+        "x": [
+            411.62
+        ],
+        "y": 165.0
+    },
+    "tcs_3f_corridor_300_SW_entry_corridor": {
+        "x": [
+            399.21999999999997
+        ],
+        "y": 285.6
+    },
+    "tcs_3f_corridor_300A_SW_entry_corridor": {
+        "x": [
+            451.92
+        ],
+        "y": 262.79999999999995
+    },
+    "tcs_3f_corridor_364_SW_open_collaboration": {
+        "x": [
+            514.54
+        ],
+        "y": 218.4
+    },
+    "tcs_3f_corridor_307_NW_corridor": {
+        "x": [
+            287.0
+        ],
+        "y": 315.0
+    }
+}

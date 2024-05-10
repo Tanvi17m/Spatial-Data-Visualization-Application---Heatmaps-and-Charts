@@ -1,0 +1,532 @@
+{
+    "tcs_4f_mite_425_C1_NE_396OF_individual": {
+        "x": 69,
+        "y": 57,
+        "value": 85
+    },
+    "tcs_4f_mite_425_W1_NE_397OG_individual": {
+        "x": 95,
+        "y": 88,
+        "value": 74
+    },
+    "tcs_4f_mite_424_W1_NE_459QQ_individual": {
+        "x": 117,
+        "y": 218,
+        "value": 60
+    },
+    "tcs_4f_mite_424_C1_NE_458QP_individual": {
+        "x": 88,
+        "y": 148,
+        "value": 75
+    },
+    "tcs_4f_mite_423_C1_NE_460QR_individual": {
+        "x": 87,
+        "y": 195,
+        "value": 77
+    },
+    "tcs_4f_mite_423_W1_NE_461QS_individual": {
+        "x": 106,
+        "y": 177,
+        "value": 69
+    },
+    "tcs_4f_mite_422_C1_NW_462QT_individual": {
+        "x": 90,
+        "y": 222,
+        "value": 99
+    },
+    "tcs_4f_mite_422_W1_NW_463QU_individual": {
+        "x": 108,
+        "y": 241,
+        "value": 90
+    },
+    "tcs_4f_mite_421_W1_NW_465QW_individual": {
+        "x": 105,
+        "y": 251,
+        "value": 91
+    },
+    "tcs_4f_mite_421_C1_NW_464QV_individual": {
+        "x": 90,
+        "y": 268,
+        "value": 95
+    },
+    "tcs_4f_mite_420_C1_NW_466QX_individual": {
+        "x": 97,
+        "y": 305,
+        "value": 66
+    },
+    "tcs_4f_mite_420_W1_NW_467QY_individual": {
+        "x": 133,
+        "y": 290,
+        "value": 73
+    },
+    "tcs_4f_mite_430_W1_NW_468QZ_public": {
+        "x": 180,
+        "y": 297,
+        "value": 53
+    },
+    "tcs_4f_mite_431A_C1_NW_469RA_public": {
+        "x": 177,
+        "y": 265,
+        "value": 80
+    },
+    "tcs_4f_mite_431_W1_NE_471RC_shared": {
+        "x": 198,
+        "y": 237,
+        "value": 96
+    },
+    "tcs_4f_mite_431_C1_NE_470RB_shared": {
+        "x": 177,
+        "y": 206,
+        "value": 55
+    },
+    "tcs_4f_mite_407_HC3_NE_457QO_public": {
+        "x": 179,
+        "y": 137,
+        "value": 89
+    },
+    "tcs_4f_mite_426_W1_NE_399OI_shared": {
+        "x": 110,
+        "y": 87,
+        "value": 89
+    },
+    "tcs_4f_mite_426_C1_NE_398OH_shared": {
+        "x": 117,
+        "y": 69,
+        "value": 80
+    },
+    "tcs_4f_mite_427_C1_NE_400OJ_individual": {
+        "x": 180,
+        "y": 69,
+        "value": 99
+    },
+    "tcs_4f_mite_427_W1_NE_401OK_individual": {
+        "x": 183,
+        "y": 88,
+        "value": 71
+    },
+    "tcs_4f_mite_407A_C2_NE_456QN_public": {
+        "x": 228,
+        "y": 178,
+        "value": 98
+    },
+    "tcs_4f_mite_407A_C1_NE_455QM_public": {
+        "x": 268,
+        "y": 179,
+        "value": 84
+    },
+    "tcs_4f_mite_407_HC5_NW_475RG_public": {
+        "x": 217,
+        "y": 244,
+        "value": 80
+    },
+    "tcs_4f_mite_400_HC3_NW_474RF_public": {
+        "x": 296,
+        "y": 287,
+        "value": 51
+    },
+    "tcs_4f_mite_400_HC7_NW_483RO_public": {
+        "x": 295,
+        "y": 355,
+        "value": 77
+    },
+    "tcs_4f_mite_432_W1_NW_473RE_public": {
+        "x": 253,
+        "y": 275,
+        "value": 79
+    },
+    "tcs_4f_mite_432_C1_NW_472RD_public": {
+        "x": 270,
+        "y": 233,
+        "value": 61
+    },
+    "tcs_4f_mite_457_C1_SW_440PX_individual": {
+        "x": 427,
+        "y": 218,
+        "value": 89
+    },
+    "tcs_4f_mite_440_C1_NE_402OL_individual": {
+        "x": 318,
+        "y": 71,
+        "value": 92
+    },
+    "tcs_4f_mite_440_W1_NE_403OM_individual": {
+        "x": 345,
+        "y": 92,
+        "value": 68
+    },
+    "tcs_4f_mite_441_W1_NE_405OO_individual": {
+        "x": 357,
+        "y": 88,
+        "value": 66
+    },
+    "tcs_4f_mite_441_C1_NE_404ON_individual": {
+        "x": 382,
+        "y": 70,
+        "value": 74
+    },
+    "tcs_4f_mite_442_C1_NE_406OP_individual": {
+        "x": 399,
+        "y": 70,
+        "value": 90
+    },
+    "tcs_4f_mite_442_W1_NE_407OQ_individual": {
+        "x": 420,
+        "y": 96,
+        "value": 95
+    },
+    "tcs_4f_mite_443_W1_SE_409OS_shared": {
+        "x": 437,
+        "y": 89,
+        "value": 83
+    },
+    "tcs_4f_mite_443_C1_SE_408OR_shared": {
+        "x": 462,
+        "y": 77,
+        "value": 52
+    },
+    "tcs_4f_mite_444_W1_SE_410OT_shared": {
+        "x": 483,
+        "y": 92,
+        "value": 91
+    },
+    "tcs_4f_mite_445_C1_SE_411OU_individual": {
+        "x": 522,
+        "y": 75,
+        "value": 85
+    },
+    "tcs_4f_mite_445_W1_SE_412OV_individual": {
+        "x": 542,
+        "y": 100,
+        "value": 82
+    },
+    "tcs_4f_mite_446_W1_SE_414OX_shared": {
+        "x": 558,
+        "y": 90,
+        "value": 82
+    },
+    "tcs_4f_mite_446_C1_SE_413OW_shared": {
+        "x": 585,
+        "y": 66,
+        "value": 87
+    },
+    "tcs_4f_mite_447_C1_SE_415OY_individual": {
+        "x": 604,
+        "y": 72,
+        "value": 50
+    },
+    "tcs_4f_mite_447_W1_SE_416OZ_individual": {
+        "x": 622,
+        "y": 98,
+        "value": 58
+    },
+    "tcs_4f_mite_448_W1_SE_418PB_individual": {
+        "x": 646,
+        "y": 96,
+        "value": 56
+    },
+    "tcs_4f_mite_448_C1_SE_417PA_individual": {
+        "x": 676,
+        "y": 78,
+        "value": 53
+    },
+    "tcs_4f_mite_449_W1_SE_420PD_shared": {
+        "x": 666,
+        "y": 125,
+        "value": 55
+    },
+    "tcs_4f_mite_449_C1_SE_419PC_shared": {
+        "x": 672,
+        "y": 152,
+        "value": 61
+    },
+    "tcs_4f_mite_463_C1_SE_421PE_shared": {
+        "x": 714,
+        "y": 136,
+        "value": 60
+    },
+    "tcs_4f_mite_463_W1_SE_422PF_shared": {
+        "x": 733,
+        "y": 160,
+        "value": 55
+    },
+    "tcs_4f_mite_462_W1_SE_424PH_individual": {
+        "x": 745,
+        "y": 158,
+        "value": 65
+    },
+    "tcs_4f_mite_462_C1_SE_423PG_individual": {
+        "x": 765,
+        "y": 137,
+        "value": 67
+    },
+    "tcs_4f_mite_461_C1_SE_425PI_shared": {
+        "x": 795,
+        "y": 129,
+        "value": 98
+    },
+    "tcs_4f_mite_461_W1_SE_426PJ_shared": {
+        "x": 789,
+        "y": 168,
+        "value": 67
+    },
+    "tcs_4f_mite_468_C1_SW_427PK_public": {
+        "x": 761,
+        "y": 201,
+        "value": 87
+    },
+    "tcs_4f_mite_468_C2_SW_428PL_public": {
+        "x": 729,
+        "y": 200,
+        "value": 59
+    },
+    "tcs_4f_mite_460_C2_SW_500SF_public": {
+        "x": 776,
+        "y": 248,
+        "value": 76
+    },
+    "tcs_4f_mite_460_C1_SW_499SE_public": {
+        "x": 736,
+        "y": 252,
+        "value": 61
+    },
+    "tcs_4f_mite_460_W1_SW_394OD_public": {
+        "x": 711,
+        "y": 275,
+        "value": 60
+    },
+    "tcs_4f_mite_464_C1_SW_498SD_public": {
+        "x": 686,
+        "y": 246,
+        "value": 68
+    },
+    "tcs_4f_mite_452_W1_SW_436PT_public": {
+        "x": 532,
+        "y": 146,
+        "value": 52
+    },
+    "tcs_4f_mite_452_C1_SW_429PM_public": {
+        "x": 559,
+        "y": 161,
+        "value": 76
+    },
+    "tcs_4f_mite_452_C2_SW_430PN_public": {
+        "x": 597,
+        "y": 161,
+        "value": 55
+    },
+    "tcs_4f_mite_452_C5_SW_433PQ_public": {
+        "x": 597,
+        "y": 208,
+        "value": 68
+    },
+    "tcs_4f_mite_452_W2_SW_437PU_public": {
+        "x": 615,
+        "y": 258,
+        "value": 83
+    },
+    "tcs_4f_mite_452_C6_SW_434PR_public": {
+        "x": 521,
+        "y": 242,
+        "value": 55
+    },
+    "tcs_4f_mite_452_C7_SW_435PS_public": {
+        "x": 558,
+        "y": 244,
+        "value": 75
+    },
+    "tcs_4f_mite_452_C3_SW_431PO_public": {
+        "x": 521,
+        "y": 206,
+        "value": 61
+    },
+    "tcs_4f_mite_452_C4_SW_432PP_public": {
+        "x": 558,
+        "y": 206,
+        "value": 61
+    },
+    "tcs_4f_mite_453_C1_SE_444QB_individual": {
+        "x": 464,
+        "y": 182,
+        "value": 90
+    },
+    "tcs_4f_mite_453_W1_SE_445QC_individual": {
+        "x": 434,
+        "y": 160,
+        "value": 74
+    },
+    "tcs_4f_mite_454_C1_NE_446QD_individual": {
+        "x": 397,
+        "y": 176,
+        "value": 62
+    },
+    "tcs_4f_mite_454_W1_NE_447QE_individual": {
+        "x": 423,
+        "y": 162,
+        "value": 98
+    },
+    "tcs_4f_mite_455_W1_NE_448QF_public": {
+        "x": 365,
+        "y": 155,
+        "value": 52
+    },
+    "tcs_4f_mite_433_C1_NE_453QK_shared": {
+        "x": 359,
+        "y": 190,
+        "value": 90
+    },
+    "tcs_4f_mite_433_W1_NE_454QL_shared": {
+        "x": 318,
+        "y": 211,
+        "value": 51
+    },
+    "tcs_4f_mite_434_W1_NW_452QJ_public": {
+        "x": 316,
+        "y": 222,
+        "value": 53
+    },
+    "tcs_4f_mite_434_C1_NW_449QG_public": {
+        "x": 375,
+        "y": 237,
+        "value": 70
+    },
+    "tcs_4f_mite_434_C3_NW_451QI_public": {
+        "x": 375,
+        "y": 266,
+        "value": 60
+    },
+    "tcs_4f_mite_434_C2_NW_450QH_public": {
+        "x": 328,
+        "y": 267,
+        "value": 65
+    },
+    "tcs_4f_mite_457_W1_SW_441PY_individual": {
+        "x": 453,
+        "y": 239,
+        "value": 64
+    },
+    "tcs_4f_mite_458_W1_SW_439PW_individual": {
+        "x": 469,
+        "y": 250,
+        "value": 81
+    },
+    "tcs_4f_mite_458_C1_SW_438PV_individual": {
+        "x": 432,
+        "y": 274,
+        "value": 91
+    },
+    "tcs_4f_mite_400_HC10_SW_496SB_public": {
+        "x": 503,
+        "y": 300,
+        "value": 87
+    },
+    "tcs_4f_mite_400_HC9_SW_495SA_public": {
+        "x": 521,
+        "y": 374,
+        "value": 53
+    },
+    "tcs_4f_mite_400A_C1_SW_493RY_public": {
+        "x": 497,
+        "y": 413,
+        "value": 66
+    },
+    "tcs_4f_mite_400A_C2_SW_494RZ_public": {
+        "x": 526,
+        "y": 440,
+        "value": 83
+    },
+    "tcs_4f_mite_417_W1_NW_478RJ_shared": {
+        "x": 204,
+        "y": 403,
+        "value": 89
+    },
+    "tcs_4f_mite_417_C1_NW_477RI_shared": {
+        "x": 213,
+        "y": 431,
+        "value": 70
+    },
+    "tcs_4f_mite_416_W1_NW_480RL_shared": {
+        "x": 259,
+        "y": 403,
+        "value": 89
+    },
+    "tcs_4f_mite_416_C1_NW_479RK_shared": {
+        "x": 253,
+        "y": 429,
+        "value": 89
+    },
+    "tcs_4f_mite_415_W1_NW_482RN_individual": {
+        "x": 298,
+        "y": 405,
+        "value": 91
+    },
+    "tcs_4f_mite_415_C1_NW_481RM_individual": {
+        "x": 295,
+        "y": 429,
+        "value": 65
+    },
+    "tcs_4f_mite_414_W1_NW_485RQ_shared": {
+        "x": 324,
+        "y": 403,
+        "value": 91
+    },
+    "tcs_4f_mite_414_C1_NW_484RP_shared": {
+        "x": 335,
+        "y": 427,
+        "value": 96
+    },
+    "tcs_4f_mite_413_W1_NW_487RS_shared": {
+        "x": 363,
+        "y": 404,
+        "value": 97
+    },
+    "tcs_4f_mite_413_C1_NW_486RR_shared": {
+        "x": 375,
+        "y": 429,
+        "value": 74
+    },
+    "tcs_4f_mite_400_HC6_NW_476RH_public": {
+        "x": 217,
+        "y": 374,
+        "value": 75
+    },
+    "tcs_4f_mite_412_W1_NW_489RU_shared": {
+        "x": 420,
+        "y": 405,
+        "value": 94
+    },
+    "tcs_4f_mite_412_C1_NW_488RT_shared": {
+        "x": 415,
+        "y": 429,
+        "value": 53
+    },
+    "tcs_4f_mite_411_W1_NW_491RW_shared": {
+        "x": 444,
+        "y": 406,
+        "value": 80
+    },
+    "tcs_4f_mite_411_C1_NW_490RV_shared": {
+        "x": 457,
+        "y": 429,
+        "value": 95
+    },
+    "tcs_4f_mite_400_HC8_NW_492RX_public": {
+        "x": 463,
+        "y": 374,
+        "value": 72
+    },
+    "tcs_4f_mite_467_C1_SW_497SC_public": {
+        "x": 605,
+        "y": 297,
+        "value": 66
+    },
+    "tcs_4f_mite_407_HC2_SE_443QA_public": {
+        "x": 495,
+        "y": 129,
+        "value": 90
+    },
+    "tcs_4f_mite_407_HC1_SE_442PZ_public": {
+        "x": 642,
+        "y": 128,
+        "value": 93
+    }
+}

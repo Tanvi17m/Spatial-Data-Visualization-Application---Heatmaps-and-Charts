@@ -1,0 +1,218 @@
+{
+    "tcs_3f_room_325_NE_office": {
+        "x": 117,
+        "y": 73
+    },
+    "tcs_3f_room_326_NE_office": {
+        "x": 158,
+        "y": 73
+    },
+    "tcs_3f_room_327_NE_office": {
+        "x": 199,
+        "y": 73
+    },
+    "tcs_3f_room_324_NE_office": {
+        "x": 130,
+        "y": 144
+    },
+    "tcs_3f_room_323_NE_office": {
+        "x": 131,
+        "y": 180
+    },
+    "tcs_3f_room_320_NW_office": {
+        "x": 138,
+        "y": 298
+    },
+    "tcs_3f_room_322_NW_office": {
+        "x": 131,
+        "y": 221
+    },
+    "tcs_3f_room_321_NW_office": {
+        "x": 130,
+        "y": 259
+    },
+    "tcs_3f_room_332_NE_office": {
+        "x": 212,
+        "y": 149
+    },
+    "tcs_3f_room_331_NE_office": {
+        "x": 212,
+        "y": 201
+    },
+    "tcs_3f_corridor_331A_NW_kitchen": {
+        "x": 212,
+        "y": 257
+    },
+    "tcs_3f_room_330_NW_office": {
+        "x": 198,
+        "y": 296
+    },
+    "tcs_3f_room_340_NE_office": {
+        "x": 361,
+        "y": 73
+    },
+    "tcs_3f_room_341_NE_office": {
+        "x": 401,
+        "y": 74
+    },
+    "tcs_3f_room_342_NE_office": {
+        "x": 441,
+        "y": 74
+    },
+    "tcs_3f_room_343_SE_office": {
+        "x": 481,
+        "y": 75
+    },
+    "tcs_3f_corridor_344_SE_visitor_space": {
+        "x": 521,
+        "y": 68
+    },
+    "tcs_3f_room_345_SE_office": {
+        "x": 561,
+        "y": 74
+    },
+    "tcs_3f_room_346_SE_office": {
+        "x": 601,
+        "y": 74
+    },
+    "tcs_3f_room_347_SE_office": {
+        "x": 642,
+        "y": 73
+    },
+    "tcs_3f_room_348_SE_office": {
+        "x": 693,
+        "y": 71
+    },
+    "tcs_3f_room_317_NW_office": {
+        "x": 239,
+        "y": 417
+    },
+    "tcs_3f_room_316_NW_office": {
+        "x": 281,
+        "y": 415
+    },
+    "tcs_3f_room_315_NW_office": {
+        "x": 320,
+        "y": 415
+    },
+    "tcs_3f_room_314_NW_office": {
+        "x": 359,
+        "y": 415
+    },
+    "tcs_3f_room_313_NW_office": {
+        "x": 402,
+        "y": 415
+    },
+    "tcs_3f_room_312_NW_office": {
+        "x": 441,
+        "y": 416
+    },
+    "tcs_3f_room_311_NW_office": {
+        "x": 482,
+        "y": 418
+    },
+    "tcs_3f_room_310_SW_conference": {
+        "x": 547,
+        "y": 431
+    },
+    "tcs_3f_corridor_350_SW_open_office": {
+        "x": 591,
+        "y": 200
+    },
+    "tcs_3f_corridor_353_SE_open_office": {
+        "x": 475,
+        "y": 161
+    },
+    "tcs_3f_room_355_SW_office": {
+        "x": 475,
+        "y": 212
+    },
+    "tcs_3f_corridor_357_SW_open_office": {
+        "x": 475,
+        "y": 254
+    },
+    "tcs_3f_room_358_NE_conference": {
+        "x": 392,
+        "y": 205
+    },
+    "tcs_3F_room_306_NW_other": {
+        "x": 276,
+        "y": 329
+    },
+    "tcs_3F_room_305_NW_other": {
+        "x": 289,
+        "y": 288
+    },
+    "tcs_3F_room_304_NW_other": {
+        "x": 304,
+        "y": 317
+    },
+    "tcs_3F_room_303_NW_other": {
+        "x": 303,
+        "y": 345
+    },
+    "tcs_3f_room_361_SE_office": {
+        "x": 822,
+        "y": 138
+    },
+    "tcs_3f_room_362_SE_office": {
+        "x": 782,
+        "y": 138
+    },
+    "tcs_3f_room_363_SE_office": {
+        "x": 746,
+        "y": 138
+    },
+    "tcs_3f_room_349_SE_office": {
+        "x": 707,
+        "y": 134
+    },
+    "tcs_3F_room_302_NW_other": {
+        "x": 400,
+        "y": 294
+    },
+    "tcs_3F_room_301_NW_other": {
+        "x": 400,
+        "y": 337
+    },
+    "tcs_3f_corridor_300_NW_restroom_corridor": {
+        "x": 327,
+        "y": 317
+    },
+    "tcs_3f_room_360_SW_conference": {
+        "x": 773,
+        "y": 253
+    },
+    "tcs_3F_room_308_NW_other": {
+        "x": 229,
+        "y": 328
+    },
+    "tcs_3f_corridor_307_NE_corridor": {
+        "x": 260,
+        "y": 120
+    },
+    "tcs_3f_corridor_307A_NE_open_collaboration": {
+        "x": 287,
+        "y": 163
+    },
+    "tcs_3f_corridor_300_SE_corridor": {
+        "x": 551,
+        "y": 125
+    },
+    "tcs_3f_corridor_300_SW_entry_corridor": {
+        "x": 531,
+        "y": 326
+    },
+    "tcs_3f_corridor_300A_SW_entry_corridor": {
+        "x": 616,
+        "y": 288
+    },
+    "tcs_3f_corridor_364_SW_open_collaboration": {
+        "x": 717,
+        "y": 214
+    },
+    "tcs_3f_corridor_307_NW_corridor": {
+        "x": 350,
+        "y": 375
+    }
+}

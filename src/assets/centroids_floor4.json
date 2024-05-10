@@ -1,0 +1,222 @@
+{
+    "tcs_4f_room_422_NW_office": {
+        "x": 96,
+        "y": 227
+    },
+    "tcs_4f_room_421_NW_office": {
+        "x": 97,
+        "y": 264
+    },
+    "tcs_4f_room_423_NE_office": {
+        "x": 96,
+        "y": 190
+    },
+    "tcs_4f_room_424_NE_office": {
+        "x": 97,
+        "y": 152
+    },
+    "tcs_4f_room_426_NE_office": {
+        "x": 126,
+        "y": 82
+    },
+    "tcs_4f_room_420_NW_office": {
+        "x": 104,
+        "y": 301
+    },
+    "tcs_4f_room_425_NE_office": {
+        "x": 84,
+        "y": 82
+    },
+    "tcs_4f_room_427_NE_office": {
+        "x": 168,
+        "y": 82
+    },
+    "tcs_4f_room_440_NE_office": {
+        "x": 331,
+        "y": 82
+    },
+    "tcs_4f_room_441_NE_office": {
+        "x": 372,
+        "y": 82
+    },
+    "tcs_4f_room_442_NE_office": {
+        "x": 411,
+        "y": 82
+    },
+    "tcs_4f_room_443_SE_office": {
+        "x": 451,
+        "y": 82
+    },
+    "tcs_4f_corridor_444_SE_lab_space": {
+        "x": 493,
+        "y": 76
+    },
+    "tcs_4f_room_445_SE_office": {
+        "x": 534,
+        "y": 82
+    },
+    "tcs_4f_room_446_SE_office": {
+        "x": 574,
+        "y": 82
+    },
+    "tcs_4f_room_447_SE_office": {
+        "x": 615,
+        "y": 82
+    },
+    "tcs_4f_room_448_SE_office": {
+        "x": 665,
+        "y": 82
+    },
+    "tcs_4f_room_461_SE_office": {
+        "x": 798,
+        "y": 146
+    },
+    "tcs_4f_room_462_SE_office": {
+        "x": 758,
+        "y": 145
+    },
+    "tcs_4f_room_463_SE_office": {
+        "x": 721,
+        "y": 145
+    },
+    "tcs_4f_room_449_SE_office": {
+        "x": 682,
+        "y": 141
+    },
+    "tcs_4f_room_417_NW_office": {
+        "x": 207,
+        "y": 420
+    },
+    "tcs_4f_room_416_NW_office": {
+        "x": 250,
+        "y": 418
+    },
+    "tcs_4f_room_415_NW_office": {
+        "x": 290,
+        "y": 418
+    },
+    "tcs_4f_room_412_NW_office": {
+        "x": 412,
+        "y": 419
+    },
+    "tcs_4f_room_414_NW_office": {
+        "x": 331,
+        "y": 419
+    },
+    "tcs_4f_room_413_NW_office": {
+        "x": 371,
+        "y": 418
+    },
+    "tcs_4f_room_411_NW_office": {
+        "x": 454,
+        "y": 420
+    },
+    "TCS_4F_room_406_NW_other": {
+        "x": 245,
+        "y": 332
+    },
+    "TCS_4F_room_404_NW_other": {
+        "x": 272,
+        "y": 322
+    },
+    "TCS_4F_room_403_NW_other": {
+        "x": 272,
+        "y": 350
+    },
+    "TCS_4F_room_405_NW_other": {
+        "x": 257,
+        "y": 293
+    },
+    "tcs_4f_room_432_NW_conference": {
+        "x": 257,
+        "y": 247
+    },
+    "TCS_4F_room_402_NW_other": {
+        "x": 369,
+        "y": 302
+    },
+    "TCS_4F_room_401_NW_other": {
+        "x": 370,
+        "y": 338
+    },
+    "tcs_4f_corridor_434_NW_open_office": {
+        "x": 395,
+        "y": 211
+    },
+    "tcs_4f_room_433_NE_office": {
+        "x": 343,
+        "y": 192
+    },
+    "tcs_4f_corridor_455_NE_huddle_space": {
+        "x": 359,
+        "y": 153
+    },
+    "tcs_4f_room_454_NE_office": {
+        "x": 403,
+        "y": 173
+    },
+    "tcs_4f_room_453_SE_office": {
+        "x": 455,
+        "y": 172
+    },
+    "tcs_4f_room_457_SW_office": {
+        "x": 446,
+        "y": 224
+    },
+    "tcs_4f_room_458_SW_office": {
+        "x": 444,
+        "y": 262
+    },
+    "tcs_4f_corridor_452_SW_open_office": {
+        "x": 569,
+        "y": 201
+    },
+    "tcs_4f_corridor_464_SW_kitchen": {
+        "x": 686,
+        "y": 247
+    },
+    "tcs_4f_room_460_SW_conference": {
+        "x": 759,
+        "y": 257
+    },
+    "tcs_4f_room_431_NE_office": {
+        "x": 179,
+        "y": 206
+    },
+    "tcs_4f_corridor_431A_NW_kitchen": {
+        "x": 179,
+        "y": 262
+    },
+    "tcs_4f_corridor_430_NW_mail_room": {
+        "x": 166,
+        "y": 302
+    },
+    "tcs_4f_corridor_407_SE_corridor": {
+        "x": 475,
+        "y": 130
+    },
+    "tcs_4f_corridor_407_NE_corridor": {
+        "x": 150,
+        "y": 155
+    },
+    "tcs_4f_corridor_400_NW_restroom_corridor": {
+        "x": 296,
+        "y": 288
+    },
+    "tcs_4f_corridor_407A_NE_open_collaboration": {
+        "x": 251,
+        "y": 163
+    },
+    "tcs_4f_corridor_400_SW_entry_corridor": {
+        "x": 534,
+        "y": 320
+    },
+    "tcs_4f_corridor_468_SW_open_collaboration": {
+        "x": 650,
+        "y": 222
+    },
+    "tcs_4f_corridor_407_NW_corridor": {
+        "x": 293,
+        "y": 380
+    }
+}
