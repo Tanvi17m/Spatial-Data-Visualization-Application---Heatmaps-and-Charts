@@ -1,0 +1,197 @@
+{
+    "tcs_4f_mite_430_W1_NW_468QZ_public": {
+        "x": 180,
+        "y": 297,
+        "value": 92
+    },
+    "tcs_4f_mite_431A_C1_NW_469RA_public": {
+        "x": 177,
+        "y": 265,
+        "value": 93
+    },
+    "tcs_4f_mite_407_HC3_NE_457QO_public": {
+        "x": 179,
+        "y": 137,
+        "value": 73
+    },
+    "tcs_4f_mite_407A_C2_NE_456QN_public": {
+        "x": 228,
+        "y": 178,
+        "value": 97
+    },
+    "tcs_4f_mite_407A_C1_NE_455QM_public": {
+        "x": 268,
+        "y": 179,
+        "value": 61
+    },
+    "tcs_4f_mite_407_HC5_NW_475RG_public": {
+        "x": 217,
+        "y": 244,
+        "value": 79
+    },
+    "tcs_4f_mite_400_HC3_NW_474RF_public": {
+        "x": 296,
+        "y": 287,
+        "value": 65
+    },
+    "tcs_4f_mite_400_HC7_NW_483RO_public": {
+        "x": 295,
+        "y": 355,
+        "value": 79
+    },
+    "tcs_4f_mite_432_W1_NW_473RE_public": {
+        "x": 253,
+        "y": 275,
+        "value": 92
+    },
+    "tcs_4f_mite_432_C1_NW_472RD_public": {
+        "x": 270,
+        "y": 233,
+        "value": 78
+    },
+    "tcs_4f_mite_468_C1_SW_427PK_public": {
+        "x": 761,
+        "y": 201,
+        "value": 82
+    },
+    "tcs_4f_mite_468_C2_SW_428PL_public": {
+        "x": 729,
+        "y": 200,
+        "value": 81
+    },
+    "tcs_4f_mite_460_C2_SW_500SF_public": {
+        "x": 776,
+        "y": 248,
+        "value": 77
+    },
+    "tcs_4f_mite_460_C1_SW_499SE_public": {
+        "x": 736,
+        "y": 252,
+        "value": 85
+    },
+    "tcs_4f_mite_460_W1_SW_394OD_public": {
+        "x": 711,
+        "y": 275,
+        "value": 92
+    },
+    "tcs_4f_mite_464_C1_SW_498SD_public": {
+        "x": 686,
+        "y": 246,
+        "value": 65
+    },
+    "tcs_4f_mite_452_W1_SW_436PT_public": {
+        "x": 532,
+        "y": 146,
+        "value": 89
+    },
+    "tcs_4f_mite_452_C1_SW_429PM_public": {
+        "x": 559,
+        "y": 161,
+        "value": 97
+    },
+    "tcs_4f_mite_452_C2_SW_430PN_public": {
+        "x": 597,
+        "y": 161,
+        "value": 70
+    },
+    "tcs_4f_mite_452_C5_SW_433PQ_public": {
+        "x": 597,
+        "y": 208,
+        "value": 67
+    },
+    "tcs_4f_mite_452_W2_SW_437PU_public": {
+        "x": 615,
+        "y": 258,
+        "value": 88
+    },
+    "tcs_4f_mite_452_C6_SW_434PR_public": {
+        "x": 521,
+        "y": 242,
+        "value": 84
+    },
+    "tcs_4f_mite_452_C7_SW_435PS_public": {
+        "x": 558,
+        "y": 244,
+        "value": 77
+    },
+    "tcs_4f_mite_452_C3_SW_431PO_public": {
+        "x": 521,
+        "y": 206,
+        "value": 79
+    },
+    "tcs_4f_mite_452_C4_SW_432PP_public": {
+        "x": 558,
+        "y": 206,
+        "value": 91
+    },
+    "tcs_4f_mite_455_W1_NE_448QF_public": {
+        "x": 365,
+        "y": 155,
+        "value": 85
+    },
+    "tcs_4f_mite_434_W1_NW_452QJ_public": {
+        "x": 316,
+        "y": 222,
+        "value": 54
+    },
+    "tcs_4f_mite_434_C1_NW_449QG_public": {
+        "x": 375,
+        "y": 237,
+        "value": 83
+    },
+    "tcs_4f_mite_434_C3_NW_451QI_public": {
+        "x": 375,
+        "y": 266,
+        "value": 63
+    },
+    "tcs_4f_mite_434_C2_NW_450QH_public": {
+        "x": 328,
+        "y": 267,
+        "value": 95
+    },
+    "tcs_4f_mite_400_HC10_SW_496SB_public": {
+        "x": 503,
+        "y": 300,
+        "value": 90
+    },
+    "tcs_4f_mite_400_HC9_SW_495SA_public": {
+        "x": 521,
+        "y": 374,
+        "value": 81
+    },
+    "tcs_4f_mite_400A_C1_SW_493RY_public": {
+        "x": 497,
+        "y": 413,
+        "value": 80
+    },
+    "tcs_4f_mite_400A_C2_SW_494RZ_public": {
+        "x": 526,
+        "y": 440,
+        "value": 78
+    },
+    "tcs_4f_mite_400_HC6_NW_476RH_public": {
+        "x": 217,
+        "y": 374,
+        "value": 79
+    },
+    "tcs_4f_mite_400_HC8_NW_492RX_public": {
+        "x": 463,
+        "y": 374,
+        "value": 57
+    },
+    "tcs_4f_mite_467_C1_SW_497SC_public": {
+        "x": 605,
+        "y": 297,
+        "value": 67
+    },
+    "tcs_4f_mite_407_HC2_SE_443QA_public": {
+        "x": 495,
+        "y": 129,
+        "value": 86
+    },
+    "tcs_4f_mite_407_HC1_SE_442PZ_public": {
+        "x": 642,
+        "y": 128,
+        "value": 53
+    }
+}
