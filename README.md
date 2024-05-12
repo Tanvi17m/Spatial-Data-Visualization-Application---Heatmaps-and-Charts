@@ -1,26 +1,9 @@
-<<<<<<< HEAD
-# vue-project
+Steps to step up on local machine
 
-This template should help get you started developing with Vue 3 in Vite.
+1) First clone the repository using git clone.
+2) cd Spatial-Data-Visualization-Application---Heatmaps-and-Charts
+3) Create a .env file with structure like .env.example file and add your client ID and client secret to that file
+4) Install the package dependencies using npm install
+5) Use npm run build to build the project
+6) Use npm run dev to run the application on localhost for development
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-=======
-# Spatial-Data-Visualization-Application---Heatmaps-and-Charts
-This Repository contains the implementation of live data heatmaps and heatmaps based on chart and slider values.
->>>>>>> origin/main
